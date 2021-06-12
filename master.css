@@ -2,7 +2,7 @@
             height: 100%;
             margin: 0;
             padding: 0;
-            /* background-image:linear-gradient(#ffffff,#000000); */
+            background-image:linear-gradient(#ffffff,#000000);
         }
        .clock-wrapper{
             position: absolute;
